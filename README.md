@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning : **I'm focusing on architectural patterns, optimizing code performance**
+- 🌱 I’m currently learning : **Next js**
 
 - 👯 I’m looking to collaborate on : **Fullstack projects**
 
